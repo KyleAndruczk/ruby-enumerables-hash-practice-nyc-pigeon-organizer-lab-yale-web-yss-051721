@@ -19,8 +19,5 @@ def nyc_pigeon_organizer(data)
       end 
       
     end 
-    
-    
-    fin_arr
   end
 end
