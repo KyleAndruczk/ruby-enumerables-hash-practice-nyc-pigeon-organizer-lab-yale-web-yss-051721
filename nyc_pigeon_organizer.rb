@@ -3,7 +3,8 @@ def nyc_pigeon_organizer(data)
   
   data.each_with_object({}) do |(key, val), fin_arr|
     value.each do |inner_key, name_arr|
-      
+      name_arr.each do |name|
+    end
       
     end 
     
