@@ -9,6 +9,9 @@ def nyc_pigeon_organizer(data)
       name_arr.each do |name|
         binding.pry
         if !fin_arr[name]
+          fin_arr[name] = {}
+        end
+        if !fin_arr
         
       end 
       
