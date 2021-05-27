@@ -8,6 +8,7 @@ def nyc_pigeon_organizer(data)
     value.each do |inner_key, name_arr|
       name_arr.each do |name|
         binding.pry
+        if !fin_arr[name]
         
       end 
       
