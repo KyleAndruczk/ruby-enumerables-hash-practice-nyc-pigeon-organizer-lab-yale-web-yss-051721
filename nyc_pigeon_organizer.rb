@@ -1,6 +1,7 @@
 def nyc_pigeon_organizer(data)
   # write your code here!
-  new_hash = {}
   
-  pidgeon_names = data[:gender].find_all {
+  data.each_with_object({}) do |(key, val), fin_arr|
+    
+  end
 end
